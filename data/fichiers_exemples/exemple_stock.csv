@@ -1,0 +1,11 @@
+Magasin,Matériel,Stock
+LYON-C,Switch,10
+LYON-C,Routeur,5
+PARIS-C,Switch,20
+PARIS-C,Routeur,8
+MARSEILLE,Switch,50
+MARSEILLE,Routeur,30
+TOULOUSE-U,Switch,-5
+TOULOUSE-U,Routeur,-3
+BORDEAUX-U,Switch,0
+BORDEAUX-U,Routeur,-2
